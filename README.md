@@ -1,4 +1,4 @@
-# SolidNG.movr
+# SolidNG.move
 
 A realistic open world game, running entirely
 in your browser. No build step, no installs — just Three.js from a CDN and
