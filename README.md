@@ -1,6 +1,6 @@
-# OPEN CITY
+# SolidNG.movr
 
-A GTA-style open world **crossed with Spider-Man traversal**, running entirely
+A realistic open world game, running entirely
 in your browser. No build step, no installs — just Three.js from a CDN and
 plain JavaScript ES modules. Steal cars, fly helicopters, rob stores, fight a
 gang for territory, outrun tanks at five stars... or ignore all of it and
